@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo{
+    background: linear-gradient(to right, #9CD5FF, #C3BFFF);
+    text-align: center;
+}
+.conteudo-geral{
+    display: inline-block;
+}
+.treinos-exercicios{
+    border: 3px solid linear-gradient(#C43AFC, #618AFF);
+    border-radius: 55px;
+    text-align: center;
+    margin: 35% 0;
+    background: linear-gradient(45deg, #C43AFC, #618AFF);
+    box-shadow:  5px 5px #618AFF,
+    10px 15px#C43AFC;
+    width: 103%;
+}
+
+.exercicios-repeticoes{
+    margin: 26px auto;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.lista-exercicios{
+    padding-bottom: 10px;
+}
+
+.treinos{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+}
